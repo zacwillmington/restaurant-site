@@ -64,19 +64,19 @@ ul li a {
 /***** HOME PAGE SETUP*****/
 
 .menu {
-  content: url(https://cdn.pixabay.com/photo/2016/02/18/11/17/background-1206941_640.jpg);
+  content: url(../img/menu.jpg);
   margin: auto;
   padding-bottom: 5%;
   width: 100%;
 }
 
 .chef  {
- content: url(https://cdn.pixabay.com/photo/2016/03/09/09/13/chef-1245676_640.jpg);
+ content: url(../img/chef.jpg);
  width: 100%;
 }
 
 .food-1 {
-  content: url(https://cdn.pixabay.com/photo/2016/08/30/18/45/grilled-1631727_640.jpg);
+  content: url(../img/food.jpg);
   margin: auto;
   padding-bottom: 5%;
   max-width: 100%;
@@ -84,7 +84,7 @@ ul li a {
 
 .food-2 {
 
-content: url(https://cdn.pixabay.com/photo/2014/10/23/18/05/burger-500054_640.jpg);
+content: url(../img/food1.jpg);
 margin: auto;
   padding-bottom: 5%;
   max-width: 100%;
