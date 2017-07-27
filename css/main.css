@@ -67,12 +67,12 @@ ul li a {
   content: url(../img/menu.jpg);
   margin: auto;
   padding-bottom: 5%;
-  width: 100%;
+  max-width: 100%;
 }
 
 .chef  {
  content: url(../img/chef.jpg);
- width: 100%;
+ max-width: 100%;
 }
 
 .food-1 {
@@ -188,8 +188,6 @@ li  {
   }
 
   .food-info-1 {
-
-    display: flex;
     flex-direction: row;
     justify-content: space-between;
     margin: auto 5%;
@@ -205,14 +203,9 @@ li  {
   }
 
   .food-info-2 {
-    display: flex;
     flex-direction: row;
     justify-content: space-between;
     margin: auto 5%;
-  }
-
-  .food-2 {
-    padding-left: 5%;
   }
 
   /***** CONTACT US WIDESCREEN*****/
